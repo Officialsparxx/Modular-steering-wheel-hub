@@ -8,3 +8,5 @@ To install, print the hub to a desired height (I stopped mine early, to the heig
 Note that the clamp doesn't offer much much strength anywhere. It may help with literaly about 1% of the torque with steering, and it may help stabilize the hub a bit, but it realistically doesn't offer much. If you choose to use it, opt for a few longer bolts in the top three holes and only attach the clamp through them. The idea would be to allow the print to flex a bit to work correctly as a C clamp. 
 
 Images for reference. 
+
+BECAUSE OF AN ERROR IN FUSION, YOU MAY HAVE TO SCALE THIS DOWN TO 10% IN YOUR SLICER!
